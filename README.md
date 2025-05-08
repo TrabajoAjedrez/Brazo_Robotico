@@ -1,2 +1,2 @@
-# Ajedrez
-Consiste en programar una variante de ajedrez en c++ para la asignatura de informática industrial
+# Brazo robotico
+Codigo del brazo robotico para la asignatura de Robotica
