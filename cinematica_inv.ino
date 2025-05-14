@@ -50,7 +50,7 @@ void moverA(float x, float z) {
     return;
   }
   // Calcular q2 (negativo porque el codo gira hacia atrás)
-  float q2_rad = -acos(cos_q2);
+  float q2_rad = acos(cos_q2);
 
   // Calcular q1
   float phi = atan2(z_, x_); //arctan(z_/x_)
